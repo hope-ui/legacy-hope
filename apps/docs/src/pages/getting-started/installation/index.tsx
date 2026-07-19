@@ -18,7 +18,7 @@ export default function Installation() {
   };
 
   const contextualNavLinks: ContextualNavLink[] = [
-    { href: "#installation", label: "Installlation" },
+    { href: "#installation", label: "Installation" },
     { href: "#provider-setup", label: "Provider setup" },
     { href: "#optional-setup", label: "Optional setup" },
   ];
